@@ -2,3 +2,5 @@ Toyota
 Tesla
 Honda
 Mercedes
+Kia
+Zaporoj
