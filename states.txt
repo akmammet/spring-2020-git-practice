@@ -2,3 +2,10 @@ New York
 Nevada
 California
 Utah
+Washington
+Oregon
+Arizona
+Texas
+Florida
+Maine
+HAwaii
