@@ -2,6 +2,11 @@ Toyota
 Tesla
 Honda
 Mercedes
+<<<<<<< HEAD
 Ford
 Mazda
 BMW
+=======
+Kia
+Zaporoj
+>>>>>>> bcf297327446eab34ae4e09cb9eeabc99b1e41fa
