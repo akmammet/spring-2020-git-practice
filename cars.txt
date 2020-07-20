@@ -2,3 +2,6 @@ Toyota
 Tesla
 Honda
 Mercedes
+Ford
+Mazda
+BMW
